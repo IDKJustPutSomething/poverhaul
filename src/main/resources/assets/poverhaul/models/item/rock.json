@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "poverhaul:items/rock_0"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "sharpness": 1
+            },
+            "model": "poverhaul:item/rock_1"
+        },
+		{
+            "predicate": {
+                "sharpness": 2
+            },
+            "model": "poverhaul:item/rock_2"
+        },
+		{
+            "predicate": {
+                "sharpness": 3
+            },
+            "model": "poverhaul:item/rock_3"
+        },
+		{
+            "predicate": {
+                "sharpness": 4
+            },
+            "model": "poverhaul:item/rock_4"
+        }
+    ]
+}

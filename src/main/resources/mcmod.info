@@ -1,0 +1,16 @@
+[
+{
+  "modid": "poverhaul",
+  "name": "Progressive Overhaul",
+  "description": "An overhaul to minecraft's progression system.  It slows progression and adds new tiers of tech.",
+  "version": "",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drok_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
